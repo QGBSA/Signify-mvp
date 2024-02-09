@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Signify-mvp/static/css/main.d547ca29.css",
+    "main.js": "/Signify-mvp/static/js/main.954a9a76.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Signify-mvp/static/js/787.d4aba7ab.chunk.js",
+    "static/media/logo.svg": "/Signify-mvp/static/media/logo.938f1d28dac1b438b7ec7ce60f97419f.svg",
+    "static/media/translation.svg": "/Signify-mvp/static/media/translation.024fc9b41b7f75d73a5bc24f4a09d9d0.svg",
+    "static/media/settings.svg": "/Signify-mvp/static/media/settings.c8a924e11743be5a3dc77d741ed57dcc.svg",
+    "static/media/feedback.svg": "/Signify-mvp/static/media/feedback.f5de680595d8518f131d51adf8daad31.svg",
+    "index.html": "/Signify-mvp/index.html",
+    "main.d547ca29.css.map": "/Signify-mvp/static/css/main.d547ca29.css.map",
+    "main.954a9a76.js.map": "/Signify-mvp/static/js/main.954a9a76.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Signify-mvp/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d547ca29.css",
+    "static/js/main.954a9a76.js"
+  ]
+}
